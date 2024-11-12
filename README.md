@@ -1,6 +1,12 @@
 # Implementação de TDD 💻
 
-Utilizando o framework JUnit para testes em Java
+Implementação simples de **Test-Driven Development (TDD)** utilizando o framework **JUnit** para testes em **Java**.
 
-Implementação simples de teste unitário com a metodologia TDD (Test-Driven Development), em que os testes são escritos antes da implementação.
----
+No **TDD**, os testes são escritos antes da implementação do código, o que ajuda a garantir que o código seja testado de forma contínua e que a implementação atenda aos requisitos desde o princípio.
+
+
+## Tecnologias
+
+- **Metodologia**: Test-Driven Development (TDD) 
+- **Framework**: JUnit 
+- **Linguagem**: Java ☕
